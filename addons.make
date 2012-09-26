@@ -1,0 +1,4 @@
+ofxBox2d
+ofxMSAInteractiveObject
+ofxSimpleGuiToo
+ofxXmlSettings
